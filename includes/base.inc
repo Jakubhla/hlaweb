@@ -1,1 +1,1 @@
-<base href="http://hla.chem.ox.ac.uk/">
+<base href="https://hla.chem.ox.ac.uk/">

@@ -140,8 +140,9 @@
 													<refdata class="journal"><a href="https://pubs.acs.org/journal/ancac3">ACS Nano</a></refdata>,
 													<refdata class="year">2025</refdata>,
 													<refdata class="vol">19</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1021/acsnano.4c14100">1405</a></refdata> | 
-													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-vj96d-v2">ChemRxiv</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1021/acsnano.4c14100">1405</a></refdata> , 
+													<refdata class="page"><a href="https://pubs.acs.org/doi/10.1021/acsnano.4c14100">1405–1411</a></refdata> |
+													<refdata class="page"><a href="https://chemrxiv.org/engage/chemrxiv/article-details/66980bb001103d79c54712d1">ChemRxiv</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -158,7 +159,7 @@
 												<p>
 													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int.</a></refdata>,
 													<refdata class="year">2025</refdata>,
-													<refdata class="vol">164</refdata>,
+													<refdata class="vol">64</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1002/anie.202417429">e202417429</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-dwwm6">ChemRxiv</a></refdata>
 												</p>
@@ -288,7 +289,8 @@
 													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/chem">Chem</a></refdata>,
 													<refdata class="year">2024</refdata>,
 													<refdata class="vol">10</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2024.06.034">10.1016/j.chempr.2024.06.034</a></refdata> | 
+													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2024.06.034">10.1016/j.chempr.2024.06.034</a></refdata>, 
+													<refdata class="page"><a href="https://doi.org/10.1016/j.chempr.2024.06.034">3410–3427</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-wg9xj">ChemRxiv</a></refdata>
 												</p>
 											</div>
@@ -307,7 +309,8 @@
 													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/chem">Chem</a></refdata>,
 													<refdata class="year">2024</refdata>,
 													<refdata class="vol">10</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2024.07.011">10.1016/j.chempr.2024.07.011</a></refdata> | 
+													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2024.07.011">10.1016/j.chempr.2024.07.011</a></refdata>, 
+													<refdata class="page"><a href="https://doi.org/10.1016/j.chempr.2024.07.011">3595–3606</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-3l5bg-v2">ChemRxiv</a></refdata>
 												</p>
 											</div>
@@ -325,8 +328,10 @@
 												<p>
 													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/cc#!recentarticles&adv">Chem. Commun.</a></refdata>,
 													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D4CC02066A">10.1039/D4CC02066A</a></refdata> |
-													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-26xtf-v2">ChemRxiv</a></refdata>	
+													<refdata class="vol">60</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D4CC02066A">10.1039/D4CC02066A</a></refdata>, 
+													<refdata class="page"><a href="https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc02066a">7606–7609</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-26xtf-v2"></a>ChemRxiv</refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -362,8 +367,10 @@
 												<p>
 													<refdata class="journal"><a href="https://www.nature.com/nnano/">Nat. Nanotechnol.</a></refdata>,
 													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41565-024-01633-1">10.1038/s41565-024-01633-1</a></refdata> |
-													<refdata class="page"><a href="https://doi.org/10.48550/arXiv.2304.08535">arXiv</a></refdata>	
+													<refdata class="vol">19</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41565-024-01633-1">10.1038/s41565-024-01633-1</a></refdata>, 
+													<refdata class="page"><a href="https://www.nature.com/articles/s41565-024-01633-1">986–992</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.48550/arXiv.2304.08535">986–992</a>arXiv</refdata>
 												</p>
 												<div class="box">
 													<b>Highlighted in:</b>
@@ -386,7 +393,9 @@
 												<p>
 													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
 													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01469-1">10.1038/s41557-024-01469-1</a></refdata> |
+													<refdata class="vol">16</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01469-1">10.1038/s41557-024-01469-1</a></refdata>, 
+													<refdata class="page"><a href="https://www.nature.com/articles/s41557-024-01469-1">998–1002</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ql8pk">ChemRxiv</a></refdata>	
 												</p>
 											</div>
@@ -404,8 +413,10 @@
 												<p>
 													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
 													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01477-1">10.1038/s41557-024-01477-1</a></refdata> |
-													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ghvdb">ChemRxiv</a></refdata>	
+													<refdata class="vol">16</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01477-1">10.1038/s41557-024-01477-1</a></refdata>, 
+													<refdata class="page"><a href="https://www.nature.com/articles/s41557-024-01477-1">1133–1140</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ghvdb">ChemRxiv</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
